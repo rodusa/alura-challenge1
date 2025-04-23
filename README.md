@@ -54,4 +54,4 @@ Cada loja possui seu próprio arquivo `.csv` contendo as seguintes informações
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/desafio-alura-store.git](https://github.com/rodusa/alura-challenge1.git)
-   cd desafio-alura-store
+   O arquivo challenge1_data_science.ipynb encontra-se no raiz deste repositório.
