@@ -55,5 +55,5 @@ Cada loja possui seu próprio arquivo `.csv` contendo as seguintes informações
    ```bash
    git clone https://github.com/rodusa/alura-challenge1.git
    
-## ▶️ Localização do arquvo 
+## ▶️ Localização do arquivo 
 O arquivo **challenge1_data_science.ipynb** encontra-se no raiz deste repositório.
